@@ -1,0 +1,16 @@
+{
+    "files": [
+        [
+            "open_path/*.qrc",
+            "open_path"
+        ],
+        [
+            "open_path/*.ui",
+            "open_path"
+        ]
+    ],
+    "pyrcc": "pyrcc5",
+    "pyrcc_options": "",
+    "pyuic": "pyuic5",
+    "pyuic_options": "--from-import"
+}

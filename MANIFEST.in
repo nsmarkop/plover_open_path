@@ -1,0 +1,5 @@
+# UI.
+exclude open_path/*_rc.py
+exclude open_path/*_ui.py
+include open_path/*.ui
+recursive-include open_path/resources *

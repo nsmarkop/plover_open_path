@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/open_path">
+    <file>folder.svg</file>
+    <file>file.svg</file>
+  </qresource>
+</RCC>
