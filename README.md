@@ -1,5 +1,7 @@
 # Plover Open Path
 
+**This repository is now archived as the functionality was implemented directly into the main Plover UI via https://github.com/openstenoproject/plover/pull/981** 
+
 A tool plugin for [Plover](https://github.com/openstenoproject/plover) to open folders and files.
 
 Icons are from [Icons8 Flat Color Icons](https://github.com/icons8/flat-color-icons).
